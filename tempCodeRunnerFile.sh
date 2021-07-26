@@ -1,0 +1,1 @@
+./minesweeper.out < test1-youlost > output1
